@@ -8,16 +8,19 @@ to decide where to focus future articles.
 ## Files
 
 [NoSQL_setup_starter.ipynb](NoSQL_setup_starter.ipynb)
-- This Jupyter notebook loads the provided JSON file, sets up a MongoDB database, updates the database, and prepares the data for use.
+- This Jupyter notebook loads the provided [JSON file](Resources/establishments.json), sets up a MongoDB database, updates the database, and prepares the data for use.
 
 [NoSQL_analysis_starter.ipynb](NoSQL_analysis_starter.ipynb)
 - This Jupyter notebook has two parts:
 - - It updates the database by adding a new business
   - It analyses the data to give summaries of:
-  - - the number of restaurants 
+    - the number of restaurants 
     - hygiene ratings
     - customer ratings
     - number of restaurants in each local authority
     - etc.
+
+[Resources/establishments.json](Resources/establishments.json)
+- The original JSON file with the data on establishments.
       
 
